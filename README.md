@@ -13,14 +13,14 @@ It runs inside Telegram like a mobile application and can be opened through a bo
 ---
 ## 📁 Project Structure
 
-src/
+```src/
 ├── components/   # UI components (buttons, menus)
 ├── views/        # Pages (Home, Profile, Settings)
 ├── router/       # Navigation system
 ├── assets/       # Images and icons
 ├── App.vue
 └── main.js
-
+```
 ---
 ## 📱 How Telegram Mini App Works
 ```text id="flow2"
