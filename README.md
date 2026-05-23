@@ -1,12 +1,3 @@
-# telegram_mini_app
-Got it — this is a new Telegram Mini App repo, not your Palolol portfolio.
-
-Here’s a clean README.md template for a NEW Mini App project (you can rename it later).
-
-⸻
-
-📄 README.md (New Telegram Mini App)
-
 # 📱 Telegram Mini App (Vue + Vite)
 This is a **Telegram Web App (Mini App)** built with **Vue 3 + Vite**.  
 It runs inside Telegram like a mobile application and can be opened through a bot button.
